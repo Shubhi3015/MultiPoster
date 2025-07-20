@@ -1,0 +1,9 @@
+streamlit
+requests
+tweepy
+linkedin_api
+instagrapi
+PIL
+datetime
+threading
+os
